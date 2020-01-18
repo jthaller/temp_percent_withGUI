@@ -1,5 +1,5 @@
 # temp_percent_withGUI
-GUI that let's you easily calculate percentages of melting points in Celsius.
+This GUI that let's you easily calculate percentages of melting points in Celsius. Pretty simple program. I wrote it one weekend to make my life easier for the summer.
 
 While working at Yale, I used a process called thermomechanical nanomolding. Essentially, you place a metal on top of a mold and heat it until it becomes slightly soft. Then you apply a massive amount of pressure and hope it finds its way into the mold. The driving force for this process is not well understood (at least at the time of this writing), though we suspected it was a diffusion based. 
 
@@ -13,4 +13,3 @@ Anyway, because these metals typically soften enough for molding at 40% of their
 
 ## Screenshot of program
 ![program sample](/program_screenshot.png)
-Format: ![Alt Text](url)
