@@ -12,3 +12,5 @@ Anyway, because these metals typically soften enough for molding at 40% of their
 - hitting enter runs the calculation
 
 ## Screenshot of program
+![program sample](/program_screenshot.png)
+Format: ![Alt Text](url)
