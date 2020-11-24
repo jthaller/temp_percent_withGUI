@@ -5,6 +5,8 @@ While working at Yale, I used a process called thermomechanical nanomolding. Ess
 
 Anyway, because these metals typically soften enough for molding at 40% of their melting point, I needed to do this calculation many times. Melting points are easy to find in C and the heating element was in celsius as well. Because converting to kelvin, multiplying by 0.40 and then converting back to celsius was annoying and something I had to do many times, I wrote a quick program with a gui and lots of useful defaults to make this task easier.
 
+I've exported this program as a windows binary, though at the time was was running linux.
+
 ## Useful features
 - default percentage (pre-filled in) is 40%
 - curser starts in temperature box
